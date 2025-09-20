@@ -111,4 +111,4 @@ MIT License. See `LICENSE` file for details.
 
 ---
 
-Let me know if you want a version with badges, contributor credits, or a demo GIF embed. I can also help write a `setup.bat` for Windows users to automate the install.
+
